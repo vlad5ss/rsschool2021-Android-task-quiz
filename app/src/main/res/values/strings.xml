@@ -1,3 +1,62 @@
 <resources>
     <string name="app_name">Quiz</string>
+    <string name="submit">Submit</string>
+    <string name="fragmentResult">fragmentResult</string>
+    <string name="DefaultValue">Default</string>
+    <string-array name="listQuestionFirst">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="listQuestionSecond">
+        <item>Газпром космические системы</item>
+        <item>Завод точной электромеханики</item>
+        <item>АГАТ</item>
+        <item>ФГУП "Космическая связь"</item>
+        <item>Искра</item>
+    </string-array>
+    <string-array name="listQuestionThree">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="listQuestionFour">
+        <item>iDirect Evolution</item>
+        <item>SkyWan</item>
+        <item>DVB-S2</item>
+        <item>DVB-S2X</item>
+        <item>SkyWire</item>
+    </string-array>
+    <string-array name="listQuestionFive">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="listQuiz">
+        <item>Сколько Кеплеровских элементов орбит?</item>
+        <item>Какой компании принадлежат спутники связи "Ямал"</item>
+        <item>Сколько орбитальных плоскостей у навигационной системы "Ураган"</item>
+        <item>Что описывает стандарт ETSI EN 302 307 (часть 2)</item>
+        <item>Сколько антенн РТ-70?</item>
+    </string-array>
+    <integer-array name="listAnswer">
+        <item>3</item>
+        <item>1</item>
+        <item>1</item>
+        <item>4</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="listNameFragment">
+        <item>first</item>
+        <item>second</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+    </string-array>
 </resources>
